@@ -5,3 +5,8 @@ span[epub|type~="subtitle"] {
         display: block;
         font-weight: normal;
 }
+
+footer {
+        text-align: right;
+        margin-top: 1em;
+}
