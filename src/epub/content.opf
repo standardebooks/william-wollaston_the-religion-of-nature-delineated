@@ -54,9 +54,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#annotator">http://id.loc.gov/authorities/names/n86827672</meta>
 		<meta property="display-seq" refines="#annotator">1</meta>
 		<meta property="role" refines="#annotator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">Fyodor Bronnikov</dc:contributor>
-		<meta property="file-as" refines="#artist">Bronnikov, Fyodor</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Fyodor_Bronnikov</meta>
+		<dc:contributor id="artist">FIXME FIXME</dc:contributor>
+		<meta property="file-as" refines="#artist">FIXME, FIXME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/FIXME_FIXME</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Gross</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Gross, David</meta>
