@@ -95,7 +95,7 @@
 		<item href="text/section-7.xhtml" id="section-7.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/section-8.xhtml" id="section-8.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/section-9.xhtml" id="section-9.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/notes.xhtml" id="notes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
@@ -114,7 +114,7 @@
 		<itemref idref="section-7.xhtml"/>
 		<itemref idref="section-8.xhtml"/>
 		<itemref idref="section-9.xhtml"/>
-		<itemref idref="notes.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
