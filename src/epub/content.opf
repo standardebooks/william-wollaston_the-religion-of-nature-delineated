@@ -29,7 +29,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
                 &lt;p&gt;
-			Wollaston attempts to determine what rules for the conduct of life (that is, what &lt;em&gt;religion&lt;/em&gt;) a conscientious and penetrating observer might derive simply from observing the facts of the world around him, without benefit of divine revelation. He concludes that truth, reason, and morality coincide, and that the key to human happiness and ethical behavior is this: “let us by no act deny anything to be true which is true; that is: let us act according to reason.”
+			Wollaston attempts to determine what rules for the conduct of life (that is, what &lt;em&gt;religion&lt;/em&gt;) a conscientious and penetrating observer might derive simply from reasoning about the facts of the world around him, without benefit of divine revelation. He concludes that truth, reason, and morality coincide, and that the key to human happiness and ethical behavior is this: “let us by no act deny anything to be true which is true; that is: let us act according to reason.”
                 &lt;/p&gt;&lt;p&gt;
                         This book was important to the intellectual foundations of the American Revolution (for example, the phrase “the pursuit of happiness” originates here). It also anticipates Kant’s theory of the categorical imperative and the modern libertarian non-aggression principle.
                 &lt;/p&gt;&lt;p&gt;
@@ -38,7 +38,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>https://www.google.com/search?tbm=bks&amp;q=the+religion+of+nature+delineated#q=editions:wPKp20oyCoQC&amp;tbm=bks&amp;tbs=bkv:r</dc:source>
+		<dc:source>https://books.google.com/books?id=r7gOAAAAIAAJ</dc:source>
 		<meta property="se:word-count">124376</meta>
 		<meta property="se:reading-ease.flesch">55.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Religion_of_Nature_Delineated</meta>
