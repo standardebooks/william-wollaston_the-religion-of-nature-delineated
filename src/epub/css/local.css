@@ -10,3 +10,8 @@ footer {
         text-align: right;
         margin-top: 1em;
 }
+
+li > p:first-child,
+ol+p {
+        text-indent: 0;
+}
