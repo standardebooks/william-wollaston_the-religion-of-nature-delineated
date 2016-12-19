@@ -1,17 +1,24 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-span[epub|type~="subtitle"] {
+span[epub|type~="subtitle"]{
         display: block;
         font-weight: normal;
 }
 
-footer {
+footer{
         text-align: right;
         margin-top: 1em;
 }
 
+p[epub|type~="dedication"]{
+	text-align: center;
+	margin: 2em 0;
+	font-variant: small-caps;
+}
+
+p[epub|type~="dedication"] + p,
 li > p:first-child,
-ol+p {
+ol + p{
         text-indent: 0;
 }
