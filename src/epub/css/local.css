@@ -23,11 +23,6 @@ ol + p{
         text-indent: 0;
 }
 
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 i em{
 	font-style: normal;
 }
