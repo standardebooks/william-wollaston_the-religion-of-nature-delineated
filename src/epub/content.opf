@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated</dc:identifier>
-		<dc:date>2016-11-29T01:17:23Z</dc:date>
-		<meta property="dcterms:modified">2016-11-29T01:17:23Z</meta>
-		<meta property="se:edition-number">0</meta>
+		<dc:date>2016-12-30T06:18:54Z</dc:date>
+		<meta property="dcterms:modified">2016-12-30T06:18:54Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -21,8 +21,8 @@
 		<meta property="file-as" refines="#title">Religion of Nature Delineated, The</meta>
 		<dc:subject id="subject-1">Natural theology--Early works to 1900</dc:subject>
 		<dc:subject id="subject-2">Philosophy, English--18th century</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://id.loc.gov/authorities/subjects/sh2008108340.html</meta>
-		<meta property="meta-auth" refines="#subject-2">http://id.loc.gov/authorities/subjects/sh85100907.html</meta>
+		<meta property="meta-auth" refines="#subject-1">http://id.loc.gov/authorities/subjects/sh2008108340</meta>
+		<meta property="meta-auth" refines="#subject-2">http://id.loc.gov/authorities/subjects/sh85100907</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Wollaston attempts to derive ethics and religion by using rational thought and observation of the natural world, without resorting to revelation or received religion.</dc:description>
@@ -35,24 +35,24 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://books.google.com/books?id=r7gOAAAAIAAJ</dc:source>
-		<meta property="se:word-count">124376</meta>
-		<meta property="se:reading-ease.flesch">55.92</meta>
+		<meta property="se:word-count">91160</meta>
+		<meta property="se:reading-ease.flesch">58.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Religion_of_Nature_Delineated</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wollaston_the-religion-of-nature-delineated</meta>
 		<dc:creator id="author">William Wollaston</dc:creator>
 		<meta property="file-as" refines="#author">Wollaston, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Wollaston</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n86144408.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n86144408</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="annotator">John Clarke</dc:contributor>
 		<meta property="file-as" refines="#annotator">Clarke, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#annotator">https://en.wikipedia.org/wiki/John_Clarke_(Dean_of_Salisbury)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#annotator">http://id.loc.gov/authorities/names/n86827672</meta>
-		<meta property="display-seq" refines="#annotator">1</meta>
-		<meta property="role" refines="#annotator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">FIXME FIXME</dc:contributor>
-		<meta property="file-as" refines="#artist">FIXME, FIXME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/FIXME_FIXME</meta>
+		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Johannes Vermeer</dc:contributor>
+		<meta property="file-as" refines="#artist">Vermeer, Johannes</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Johannes_Vermeer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79006488</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">David Gross</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Gross, David</meta>
@@ -63,6 +63,12 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">edt</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
