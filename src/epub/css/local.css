@@ -23,6 +23,7 @@ ol + p{
         text-indent: 0;
 }
 
-i em{
+i em,
+i i{
 	font-style: normal;
 }
