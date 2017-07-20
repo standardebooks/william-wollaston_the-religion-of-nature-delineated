@@ -2,13 +2,13 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 span[epub|type~="subtitle"]{
-        display: block;
-        font-weight: normal;
+	display: block;
+	font-weight: normal;
 }
 
 footer{
-        text-align: right;
-        margin-top: 1em;
+	text-align: right;
+	margin-top: 1em;
 }
 
 p[epub|type~="dedication"]{
@@ -20,7 +20,7 @@ p[epub|type~="dedication"]{
 p[epub|type~="dedication"] + p,
 li > p:first-child,
 ol + p{
-        text-indent: 0;
+	text-indent: 0;
 }
 
 i em,
