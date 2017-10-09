@@ -17,9 +17,7 @@ p[epub|type~="dedication"]{
 	font-variant: small-caps;
 }
 
-p[epub|type~="dedication"] + p,
-li > p:first-child,
-ol + p{
+p[epub|type~="dedication"] + p{
 	text-indent: 0;
 }
 
