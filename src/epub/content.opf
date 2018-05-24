@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-wollaston/the-religion-of-nature-delineated</dc:identifier>
 		<dc:date>2016-12-30T06:18:54Z</dc:date>
-		<meta property="dcterms:modified">2018-05-09T20:47:13Z</meta>
-		<meta property="se:revision-number">30</meta>
+		<meta property="dcterms:modified">2018-05-24T00:37:25Z</meta>
+		<meta property="se:revision-number">31</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,7 +47,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://books.google.com/books?id=r7gOAAAAIAAJ</dc:source>
 		<meta property="se:word-count">91261</meta>
-		<meta property="se:reading-ease.flesch">58.76</meta>
+		<meta property="se:reading-ease.flesch">58.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Religion_of_Nature_Delineated</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wollaston_the-religion-of-nature-delineated</meta>
 		<dc:creator id="author">William Wollaston</dc:creator>
