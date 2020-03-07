@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>s-039</code>
+			<reason>Here "Ibid." refers to the same source within the same endnote.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
