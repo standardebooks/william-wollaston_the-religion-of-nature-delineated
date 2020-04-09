@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="section-4.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>This Roman numeral is in a series of inline numbers, so the period and casing are appropriate.</reason>
+		</ignore>
+	</file>
 	<file path="endnotes.xhtml">
 		<ignore>
 			<code>s-039</code>
