@@ -6,6 +6,12 @@
 			<reason>Title is correctly titlecased.</reason>
 		</ignore>
 	</file>
+	<file path="section-1.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is as-is in print.</reason>
+		</ignore>
+	</file>
 	<file path="section-4.xhtml">
 		<ignore>
 			<code>t-029</code>
