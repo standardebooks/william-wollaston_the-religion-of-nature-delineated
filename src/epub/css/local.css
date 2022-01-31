@@ -2,14 +2,14 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 p[epub|type~="dedication"]{
-	text-align: center;
-	margin: 2em 0;
 	font-variant: small-caps;
+	margin: 2em 0;
+	text-align: center;
 }
 
 p[epub|type~="dedication"] + p{
