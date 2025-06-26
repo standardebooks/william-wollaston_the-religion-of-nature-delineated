@@ -15,3 +15,7 @@ p[epub|type~="dedication"]{
 p[epub|type~="dedication"] + p{
 	text-indent: 0;
 }
+
+footer p[dir="rtl"]{
+	text-indent: 0;
+}
