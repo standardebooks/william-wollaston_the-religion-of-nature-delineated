@@ -61,7 +61,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="annotator">John Clarke</dc:contributor>
 		<meta property="file-as" refines="#annotator">Clarke, John</meta>
-		<link href="https://en.wikipedia.org/wiki/John_Clarke_(Dean_of_Salisbury)" refines="#annotator" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/John_Clarke_(dean_of_Salisbury)" refines="#annotator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n86827672.html" refines="#annotator" rel="schema:sameAs"/>
 		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Johannes Vermeer</dc:contributor>
