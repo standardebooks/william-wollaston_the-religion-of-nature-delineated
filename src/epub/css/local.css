@@ -19,3 +19,40 @@ p[epub|type~="dedication"] + p{
 footer p[dir="rtl"]{
 	text-indent: 0;
 }
+
+ol.inline{
+	list-style-position: inside;
+	margin: 0;
+	padding-left: 0;
+}
+
+ol.inline > li{
+	text-indent: 1em;
+}
+
+ol.inline > li > p:first-child{
+	display: inline;
+}
+
+hgroup + ol.inline > li:first-child{
+	text-indent: 0;
+}
+
+@supports selector(::marker){
+	ol.inline > li::marker{
+		font-variant-numeric: inherit;
+		white-space: normal;
+	}
+}
+
+#section-1 ol.inline,
+#section-2 ol.inline,
+#section-3 ol.inline,
+#section-4 ol.inline,
+#section-5 ol.inline,
+#section-6 ol.inline,
+#section-7 ol.inline,
+#section-8 ol.inline,
+#section-9 ol.inline{
+	list-style-type: upper-roman;
+}

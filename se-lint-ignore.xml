@@ -12,19 +12,13 @@
 	</file>
 	<file path="section-1.xhtml">
 		<ignore code="y-003">
-			<line>79</line>
+			<line>109</line>
 			<reason>Matched text is as-is in print.</reason>
-		</ignore>
-	</file>
-	<file path="section-4.xhtml">
-		<ignore code="t-029">
-			<line>24</line>
-			<reason>Period denotes an ordinal so it is acceptable.</reason>
 		</ignore>
 	</file>
 	<file path="section-5.xhtml">
 		<ignore code="y-010">
-			<line>72</line>
+			<line>118</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
