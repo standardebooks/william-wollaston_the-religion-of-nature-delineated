@@ -46,8 +46,8 @@
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://books.google.com/books?id=r7gOAAAAIAAJ</dc:source>
-		<meta property="schema:wordCount">91667</meta>
-		<meta property="schema:educationalLevel">58.55</meta>
+		<meta property="schema:wordCount">91544</meta>
+		<meta property="schema:educationalLevel">58.45</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Religion_of_Nature_Delineated" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
